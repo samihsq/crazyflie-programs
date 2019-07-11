@@ -1,2 +1,2 @@
 # crazyflie-programs
-A place where I put my crazyflie projects
+A place where I put my crazyflie programs
